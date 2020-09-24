@@ -3,5 +3,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Stop trying to calm the storm. Calm yourself. The storm will pass.
 Use the left arrow to go back!
